@@ -1,0 +1,11 @@
+{
+  "name": "speech-text-reader",
+  "version": "1.0.0",
+  "description": "simple app for reading text",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Yordanov",
+  "license": "ISC"
+}
